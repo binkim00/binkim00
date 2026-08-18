@@ -132,17 +132,6 @@ AI가 만든 코드도 직접 설명하고 검증할 수 있는 범위에서만 
 
 <br />
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=binkim00&show_icons=true&hide_border=true&title_color=2F5D50&icon_color=2F5D50&text_color=374151&bg_color=FFFFFF" height="155" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binkim00&layout=compact&hide_border=true&title_color=2F5D50&text_color=374151&bg_color=FFFFFF" height="155" />
-
-</div>
-
-<br />
-
 <div align="center">
 
 ### Backend · Data · Flow
